@@ -6,7 +6,6 @@
 ### Informatic Engineering Student • Backend Developer • Linux & Cybersecurity Enthusiast
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=henriquecondela-dev&label=Profile%20Views&color=blue&style=for-the-badge)
 
 </div>
 
