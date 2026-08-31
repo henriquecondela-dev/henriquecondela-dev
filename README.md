@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Henrique Guambe
+# Hello, I'm Henrique Guambe
 
 ### Informatic Engineering Student • Backend Developer • Linux & Cybersecurity Enthusiast
 <div align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Informatic Engineering student** passionate about software development, backend engineering, Linux systems, databases and cybersecurity.
 
@@ -30,21 +30,21 @@ I enjoy understanding not only **how to use a technology**, but also **how it wo
 
 My current interests include:
 
-* 🔹 Backend development
-* 🔹 Software architecture
-* 🔹 Java & Object-Oriented Programming
-* 🔹 JavaScript & Node.js
-* 🔹 REST APIs
-* 🔹 SQL & relational databases
-* 🔹 Linux & system internals
-* 🔹 Cybersecurity
-* 🔹 Distributed systems & microservices
+* Backend development
+* Software architecture
+* Java & Object-Oriented Programming
+* JavaScript & Node.js
+* REST APIs
+* SQL & relational databases
+* Linux & system internals
+* Cybersecurity
+* Distributed systems & microservices
 
 I'm particularly interested in building projects that go beyond academic exercises and can evolve into real-world systems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -82,7 +82,7 @@ I'm particularly interested in building projects that go beyond academic exercis
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!--### 🛒 UniMarket
 
@@ -115,7 +115,7 @@ A platform designed to allow developers to practice programming through coding c
 
 ---
 
-### 🔐 Cybersecurity Labs
+### Cybersecurity Labs
 
 A collection of practical experiments and laboratories focused on web security and vulnerability analysis.
 
@@ -125,7 +125,7 @@ Topics include:
 
 ---
 
-## 📚 Currently Learning
+<!--## 📚 Currently Learning
 
 ```text
 Backend Engineering
@@ -197,6 +197,7 @@ Areas I'm exploring:
 * Secure Software Development
 
 ---
+-->
 
 ## 📊 GitHub Statistics
 
@@ -212,7 +213,7 @@ Areas I'm exploring:
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -222,7 +223,7 @@ Areas I'm exploring:
 
 ---
 
-## 📈 My GitHub Activity
+<!--## My GitHub Activity
 
 I use GitHub not only as a place to store code, but also as a development laboratory where I experiment with:
 
@@ -235,8 +236,9 @@ I use GitHub not only as a place to store code, but also as a development labora
 * 🚀 Personal projects
 
 ---
+-->
 
-## 🤝 Collaboration
+## Collaboration
 
 I'm open to collaborating on projects related to:
 
@@ -250,27 +252,23 @@ I'm open to collaborating on projects related to:
 
 ---
 
-## 📫 Connect With Me
-
+## Connect With Me
 <div align="center">
-
 <a href="https://github.com/henriquecondela-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <!--
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 -->
 </div>
-
 ---
 
 <div align="center">
 
-### 💡 "Build. Understand. Improve."
+### "Build. Understand. Improve."
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 </div>
