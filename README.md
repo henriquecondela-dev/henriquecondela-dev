@@ -1,6 +1,6 @@
 
 <div align="center">
-
+<img src="me.png" alt="Henrique Guambe img"/>
 # Hello, I'm Henrique Guambe
 
 ### Informatic Engineering Student • Backend Developer • Linux & Cybersecurity Enthusiast
