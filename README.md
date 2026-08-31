@@ -1,6 +1,9 @@
+<div align="center">
+  <img src="me.png" width="80px" height="80px" alt="Henrique Guambe img"/>
+</div>
 
 <div align="center">
-<img src="me.png" width="50px" height="50px" style="float:center;" alt="Henrique Guambe img"/>
+
 # Hello, I'm Henrique Guambe
 
 ### Informatic Engineering Student • Backend Developer • Linux & Cybersecurity Enthusiast
