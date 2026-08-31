@@ -217,7 +217,7 @@ Areas I'm exploring:
 </div>
 
 ---
-
+<!--
 ## Contribution Streak
 
 <div align="center">
@@ -226,7 +226,7 @@ Areas I'm exploring:
 
 </div>
 
----
+-->
 
 <!--## My GitHub Activity
 
