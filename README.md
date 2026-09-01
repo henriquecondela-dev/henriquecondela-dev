@@ -202,7 +202,6 @@ Areas I'm exploring:
 * Secure Software Development
 
 ---
--->
 
 ## GitHub Statistics
 
@@ -215,6 +214,7 @@ Areas I'm exploring:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecondela-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+-->
 
 ---
 <!--
