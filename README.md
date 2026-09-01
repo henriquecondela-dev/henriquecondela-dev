@@ -101,7 +101,7 @@ A marketplace platform designed for university students.
 -->
 ---
 
-### 💻 TestYourCode
+###TestYourCode
 
 A platform designed to allow developers to practice programming through coding challenges.
 
@@ -204,7 +204,7 @@ Areas I'm exploring:
 ---
 -->
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
